@@ -100,7 +100,7 @@ url: "https://missions.tisuela.com/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/nananananate/guatemala-missions"
 email: "natetisuela@gmail.com"
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+disqus: "guatemala-missions" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
 # service_worker: false # Will turn off the service worker if set to false

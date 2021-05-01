@@ -1,5 +1,6 @@
 ---
 title: 📜 Dear Friends and Family
+comments: true
 categories:
 - General
 excerpt: |
