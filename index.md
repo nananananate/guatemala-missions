@@ -3,7 +3,7 @@ title: Going on Missions
 feature_text: |
   ## Nathan's going on Missions
   Find ways to support our team and stay up to date on my preparation.
-feature_image: "https://static.wixstatic.com/media/db9680_3fb25f36b671414ab7280a8de19548be~mv2_d_3000_1688_s_2.jpg/v1/fill/w_880,h_426,al_c,q_85,usm_0.66_1.00_0.01/db9680_3fb25f36b671414ab7280a8de19548be~mv2_d_3000_1688_s_2.jpg"
+feature_image: "https://missions.tisuela.com/assets/images/ami-school.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
