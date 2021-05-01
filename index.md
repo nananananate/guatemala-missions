@@ -4,7 +4,7 @@ layout: home
 feature_text: |
   ## Nathan is going on Missions
   Find ways to support our team and stay up to date on my preparation.
-feature_image: "./assets/images/guatemala-hills.png"
+feature_image: "./assets/images/guatemala-cafeteria.png"
 excerpt: "Hi, I'm Nathaniel Louis Tisuela, and I will be going on missions with [Acts Ministries International](https://amichurches.com/) to Cobán, Guatemala."
 ---
 

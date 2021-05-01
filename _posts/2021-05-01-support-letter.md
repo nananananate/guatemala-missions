@@ -7,8 +7,8 @@ excerpt: |
 feature_text: |
   ## Dear Friends and Family,
   This June I have the privilege to serve for one week in Cobán, Guatemala, where our team will be ministering to kids from a variety of socioeconomic backgrounds through Vacation Bible School.
-feature_image: "/assets/images/turtle-rock-sunrise.png"
-image: "/assets/images/turtle-rock-sunrise.png"
+feature_image: "/assets/images/av-garage.png"
+image: "/assets/images/av-garage.png"
 ---
 
 For the past seven months, I've had the privilege of mentoring Renato, a first-grader in Cobán, Guatemala. My Spanish still sucks, and my Zoom connection is similar. Despite the barriers, I've been blessed with a growing friendship with Renato. It's pretty nice to have a friend who gets my silliness and is patient with me. This friendship has helped me understand what Renato has been going through -- recently as we've been praying together, he shared about the progressive healing of one of his relatives. From overcoming shyness to praying together, God has been working in our relationship! 
