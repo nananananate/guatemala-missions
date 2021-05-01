@@ -11,7 +11,7 @@ excerpt: "Hi, I'm Nathaniel Louis Tisuela, and I will be going on missions with 
 Hi, I'm Nathaniel Louis Tisuela, and I will be going on missions with AMI International to Cobán, Guatemala. 
 Here, you can find ways to support our team and stay up to date on my preparation! I appreciate your prayers and monetary support 😊.
 
-{% include button.html text="Support me" icon="donation" link="https://churchofsouthland.ccbchurch.com/goto/forms/681/responses/new" color="#0366d6" %}
+{% include button.html text="Support me" icon="donation" link="https://churchofsouthland.ccbchurch.com/goto/forms/681/responses/new" color="#0366d6" %}{% include button.html text="My letter" icon="letter" link="./assets/pdfs/support-letter.pdf" color="#5232E3" %}
 
 ## Dear friends and family,
 
