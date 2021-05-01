@@ -123,8 +123,10 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
+- title: Support
+  url: https://churchofsouthland.ccbchurch.com/goto/forms/681/responses/new
+- title: AMI
+  url: https://amichurches.com/
 - title: Search
   url: /search/
 
