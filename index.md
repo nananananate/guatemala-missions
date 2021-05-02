@@ -25,3 +25,4 @@ Here, you can find ways to support our team and stay up to date on my preparatio
 
 ## ✨ Updates
 
+Weekly updates on my preparation, then daily debriefs once I'm at Cobán.

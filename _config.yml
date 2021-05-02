@@ -65,7 +65,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Weekly updates on my preparation, then daily debriefs once I'm at Cobán." # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "/assets/images/elkhorn-farm.png"
