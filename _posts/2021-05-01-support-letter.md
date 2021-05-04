@@ -7,7 +7,7 @@ excerpt: |
  For the past seven months, I've had the privilege of mentoring Renato, a first-grader in Cobán, Guatemala. My Spanish still sucks and...
 feature_text: |
   ## Dear Friends and Family,
-  This June I have the privilege to serve for one week in Cobán, Guatemala, where our team will be ministering to kids from a variety of socioeconomic backgrounds through Vacation Bible School.
+  This June I have the privilege to serve for one week in Cobán, Guatemala. 
 feature_image: "/assets/images/av-garage.png"
 image: "/assets/images/av-garage.png"
 ---
