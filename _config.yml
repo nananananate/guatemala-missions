@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/images/ami-school.jpg" # Default image for sharing
+      image: "/assets/default-social-image.jpg" # Default image for sharing
   -
     scope:
       path: ""
