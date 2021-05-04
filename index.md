@@ -8,7 +8,7 @@ feature_image: "./assets/images/index-header.png"
 excerpt: "Hi, I'm Nathaniel Louis Tisuela, and I will be going on missions with [Acts Ministries International](https://amichurches.com/) to Cobán, Guatemala."
 ---
 
-Hi, I'm Nathaniel Louis Tisuela, and I will be going on missions with [Acts Ministries International](https://amichurches.com/){:target="_blank"} to [Cobán, Guatemala](https://www.amiiscoban.com/){:target="_blank"}. 
+Hi, I'm Nathaniel Louis Tisuela, and I will be going on missions with [Acts Ministries International](https://amichurches.com/){:target="_blank"} to [Cobán, Guatemala](https://www.amiiscoban.com/){:target="_blank"}. You can [subscribe](/subscribe/){:target="_blank"} to get email updates from me! 
 
 ![renato and i](/assets/images/renato-and-i.png)
 
