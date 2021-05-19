@@ -10,6 +10,7 @@
   <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
     <div class="container  typeset">
       {{ feature_text | markdownify }}
+      {% include button.html text="Subscribe" icon="inbox" link="/subscribe/" color="#970101" %}
     </div>
   </div>
 {% endif %}
