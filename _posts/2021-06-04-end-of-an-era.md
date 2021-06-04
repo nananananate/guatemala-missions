@@ -46,7 +46,7 @@ I can't believe I'll be in Cobán next week!!! AAHHH. A lot of prep has been hap
 
 ### 🤝🏽 Support
 
-I have greatly appreciated everyone who reached out to me over email, Instagram, messenger, text, email, snail mail, and even on Discord! Also thank you for all of my generous donors and prayer warriors!
+I have greatly appreciated everyone who reached out to me over email, Instagram, messenger, text, email, snail mail, and even on Discord! Also thank you for all of my generous donors and prayer warriors 💯💯💯💯💯.
 
 I am about 50% funded right now. To see how you can support our team, checkout the ![home page](http://missions.tisuela.com/). 
 
