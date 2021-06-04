@@ -44,6 +44,12 @@ I do have the opportunity to continue with this program; however, I don't really
 
 I can't believe I'll be in Cobán next week!!! AAHHH. A lot of prep has been happening.
 
+### 🤝🏽 Support
+
+I have greatly appreciated everyone who reached out to me over email, Instagram, messenger, text, email, snail mail, and even on Discord! Also thank you for all of my generous donors and prayer warriors!
+
+I am about 50% funded right now. To see how you can support our team, checkout the ![home page](http://missions.tisuela.com/). 
+
 ### 🕺🏾 Online dance classes
 
 Our worship team has been 110% on top of things! They've been helping us with our daily playlist at VBS and choreography. So during our Zoom prep meetings, they lead us through the songs, turning our zoom room into a dance zoom.
