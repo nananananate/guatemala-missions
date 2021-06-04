@@ -8,11 +8,15 @@ excerpt: |
 feature_text: |
   ## End of an Era
   Tutoring Renato is coming to a close.
-feature_image: "/assets/images/classroom-header.png"
-image: "/assets/images/classroom-header.png"
+feature_image: "/assets/images/construction-header.png"
+image: "/assets/images/anon-potato.png"
 ---
 
-For the past seven months, I've been tutoring Renato once a week. This week, we turned each other into potatoes instead of learning English. Next week will be our last official week 😭. I have not told him I am coming, but I did say to await a special surprise! Hope he is not disappointed that it's just me HAHA (I am bringing a gift tho just in case 😉). It has been a surprising year getting to know Renato, and I am SO thankful for the memories!
+For the past seven months, I've been tutoring Renato once a week. This week, we turned each other into potatoes instead of learning English. Next week will be our last official week 😭. 
+
+![potato](/assets/images/anon-potato.png)
+
+I have not told him I am coming, but I did say to await a special surprise! Hope he is not disappointed that it's just me HAHA (I am bringing a gift tho just in case 😉). It has been a surprising year getting to know Renato, and I am SO thankful for the memories!
 
 ## 👨🏽‍🏫 The Kumon Life
 
@@ -41,7 +45,7 @@ While I was conveniently in the bay area, I picked up an electric drum set that 
 
 The hardest thing yesterday was finding a box for this! The frame had to be disassembled so we don't get charged extra fees on our flight. 
 
-After calling a bunch of stores, Home Depot literally had the perfect size. PTL even in the small things -- this was a great victory. I now recommend home depot for your cardboard box needs. 
+After calling a bunch of stores, Home Depot literally had the perfect size. PTL even in the small things -- this was a great victory. I now recommend Home Depot for your cardboard box needs (Home Depot if you're reading this pls sponsor me). 
 
 ### 🎮 Games
 
